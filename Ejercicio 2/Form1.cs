@@ -35,7 +35,7 @@ namespace Ejercicio_2
                 });
 
                 MessageBox.Show("Su registro fue agregado con éxito");
-                txtId.Clear();
+                txtId.Clear(); 
                 txtNombres.Clear();
                 txtApellidos.Clear();
             }

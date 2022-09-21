@@ -70,7 +70,7 @@ namespace Ejercicio_2
             // 
             // txtId
             // 
-            this.txtId.Location = new System.Drawing.Point(153, 35);
+            this.txtId.Location = new System.Drawing.Point(153, 36);
             this.txtId.Name = "txtId";
             this.txtId.Size = new System.Drawing.Size(236, 20);
             this.txtId.TabIndex = 3;
